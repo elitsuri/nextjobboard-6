@@ -1,0 +1,18 @@
+{
+  "project_name": "nextjobboard",
+  "generated_at": "2026-04-14T13:49:01.357381+00:00",
+  "quality_profile": "production",
+  "documentation_policy": {
+    "no_emoji": true,
+    "plain_markdown": true
+  },
+  "stack": [
+    "python"
+  ],
+  "file_count": 95,
+  "artifacts": {
+    "readme": "README.md",
+    "architecture_doc": "docs/ARCHITECTURE.md",
+    "operations_doc": "docs/OPERATIONS.md"
+  }
+}
